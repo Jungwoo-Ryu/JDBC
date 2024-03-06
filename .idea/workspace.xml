@@ -5,12 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dea71561-2817-4789-86cb-85f18d8ca70e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/connection-info.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section01/connection/Application03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section01/connection/jdbc-config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section02/template/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section02/template/JDBCTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/section01/connection/Application02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section01/connection/Application02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/96dda237-b8a2-45ce-9e65-3a3bc5125ea1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/96dda237-b8a2-45ce-9e65-3a3bc5125ea1/storage_v2/_src_/schema/employee.ruYiRw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/96dda237-b8a2-45ce-9e65-3a3bc5125ea1/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/96dda237-b8a2-45ce-9e65-3a3bc5125ea1/storage_v2/_src_/schema/menudb.HUbDvw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/96dda237-b8a2-45ce-9e65-3a3bc5125ea1/storage_v2/_src_/schema/menudb.HUbDvw.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/96dda237-b8a2-45ce-9e65-3a3bc5125ea1/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/connection-info.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section01/connection/Application01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section01/connection/Application02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section01/connection/Application03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section01/connection/jdbc-config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section02/template/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section02/template/JDBCTemplate.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709692440486</updated>
       <workItem from="1709692442306" duration="1296000" />
-      <workItem from="1709693743805" duration="6319000" />
+      <workItem from="1709693743805" duration="6994000" />
     </task>
     <servers />
   </component>
