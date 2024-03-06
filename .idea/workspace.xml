@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dea71561-2817-4789-86cb-85f18d8ca70e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/section01/connection/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/connection-info.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section01/connection/Application03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section01/connection/jdbc-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section02/template/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/section02/template/JDBCTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/section01/connection/Application02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/section01/connection/Application02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2dIP5v6h9c6UvUBvlpqrLs8urv7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,6 +45,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.chap01-connection [:Application.main()].executor": "Run",
+    "Gradle.chap01-connection [:Application01.main()].executor": "Run",
+    "Gradle.chap01-connection [:Application02.main()].executor": "Run",
+    "Gradle.chap01-connection [:Application03.main()].executor": "Run",
     "Gradle.chap01-connection [dependencies].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -64,7 +68,59 @@
     ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Application03">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section02.template.Application" />
+      <module name="chap01-connection.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section02.template.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section01.connection.Application01" />
+      <module name="chap01-connection.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section01.connection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section01.connection.Application02" />
+      <module name="chap01-connection.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section01.connection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section01.connection.Application03" />
+      <module name="chap01-connection.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section01.connection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="chap01-connection [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -89,6 +145,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Application03" />
+        <item itemvalue="Application.Application02" />
+        <item itemvalue="Application.Application01" />
         <item itemvalue="Gradle.chap01-connection [dependencies]" />
       </list>
     </recent_temporary>
@@ -102,6 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709692440486</updated>
       <workItem from="1709692442306" duration="1296000" />
+      <workItem from="1709693743805" duration="6319000" />
     </task>
     <servers />
   </component>

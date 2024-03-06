@@ -14,6 +14,7 @@
         <introspection-scope>
           <node kind="schema">
             <name qname="@" />
+            <name qname="employee" />
             <name qname="menudb" />
           </node>
         </introspection-scope>
