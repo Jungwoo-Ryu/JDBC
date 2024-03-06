@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 public class JDBCTemplate {
-    //
+    // a
     public static Connection getConnection(){
         Connection con = null;
 
